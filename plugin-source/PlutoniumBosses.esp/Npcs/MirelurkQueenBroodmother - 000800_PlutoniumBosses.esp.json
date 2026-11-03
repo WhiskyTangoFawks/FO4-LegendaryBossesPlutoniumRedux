@@ -1,0 +1,183 @@
+{
+  "FormKey": "000800:PlutoniumBosses.esp",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "MirelurkQueenBroodmother",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-101, -111, 120",
+    "Second": "101, 111, 358"
+  },
+  "Flags": [
+    "Unique"
+  ],
+  "XpValueOffset": 500,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 75
+  },
+  "CalcMinLevel": 400,
+  "CalcMaxLevel": 200,
+  "DispositionBase": 500,
+  "Unknown": 1561,
+  "Factions": [
+    {
+      "Faction": "019F7E:Fallout4.esm",
+      "Rank": 3
+    },
+    {
+      "Faction": "022B31:Fallout4.esm",
+      "Rank": 3
+    },
+    {
+      "Faction": "02689D:Fallout4.esm",
+      "Rank": 3
+    }
+  ],
+  "DeathItem": "20D3DF:Fallout4.esm",
+  "Voice": "108179:Fallout4.esm",
+  "Race": "0E12A6:Fallout4.esm",
+  "Skin": "0E12A7:Fallout4.esm",
+  "FarAwayModel": "0E12A7:Fallout4.esm",
+  "AttackRace": "064C60:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "02A6FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "00082F:PlutoniumBosses.esp",
+      "Rank": 1
+    },
+    {
+      "Perk": "000846:PlutoniumBosses.esp",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 3000.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002EA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "1504FB:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 70.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "102798:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "11271C:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "11271D:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Average",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "AggroRadiusBehaviorEnabled": true,
+  "AggroRadiusWarn": 1000,
+  "AggroRadiusWarnOrAttack": 750,
+  "AggroRadiusAttack": 500,
+  "Packages": [
+    "042A1C:Fallout4.esm"
+  ],
+  "Keywords": [
+    "0F23C5:Fallout4.esm",
+    "1B9A3C:Fallout4.esm",
+    "1C5020:Fallout4.esm",
+    "2049E5:Fallout4.esm",
+    "2243AA:Fallout4.esm",
+    "2243AB:Fallout4.esm",
+    "1CF26C:Fallout4.esm",
+    "0A56F5:Fallout4.esm",
+    "248D2D:Fallout4.esm"
+  ],
+  "Class": "05F96F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "The Queen"
+  },
+  "CalculatedHealth": 1000,
+  "CalculatedActionPoints": 150,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "10817A:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.9,
+  "NAM7": 0.0,
+  "HeightMax": 1.9,
+  "Weight": {
+    "Thin": 0.33333334,
+    "Muscular": 0.33333334,
+    "Fat": 0.33333334
+  },
+  "SoundLevel": "VeryLoud",
+  "InheritsSoundsFrom": "16CDBB:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#809A80",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

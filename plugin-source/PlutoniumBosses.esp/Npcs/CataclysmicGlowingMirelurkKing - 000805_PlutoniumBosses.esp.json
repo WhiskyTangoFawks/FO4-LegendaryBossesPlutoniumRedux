@@ -1,0 +1,177 @@
+{
+  "FormKey": "000805:PlutoniumBosses.esp",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "CataclysmicGlowingMirelurkKing",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-101, -111, 120",
+    "Second": "101, 111, 358"
+  },
+  "Flags": [
+    "Unique"
+  ],
+  "XpValueOffset": 500,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 55
+  },
+  "CalcMinLevel": 400,
+  "CalcMaxLevel": 200,
+  "DispositionBase": 500,
+  "UseTemplateActors": "3892",
+  "Unknown": 6346,
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm",
+      "Rank": 3
+    },
+    {
+      "Faction": "02689D:Fallout4.esm",
+      "Rank": 3
+    }
+  ],
+  "DeathItem": "000844:PlutoniumBosses.esp",
+  "Voice": "0D8E1B:Fallout4.esm",
+  "Race": "0B7F91:Fallout4.esm",
+  "ActorEffect": [
+    "21C007:Fallout4.esm",
+    "00DA48:PlutoniumCreatures.esp"
+  ],
+  "Skin": "011DD6:PlutoniumCreatures.esp",
+  "AttackRace": "0B7F91:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "02A6FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1504FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "2496A0:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "00082F:PlutoniumBosses.esp",
+      "Rank": 1
+    },
+    {
+      "Perk": "000846:PlutoniumBosses.esp",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 1500.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002EA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "1504FB:Fallout4.esm",
+      "Value": 20.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 265.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm",
+      "Value": 10.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "0FC3EC:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0FC3EE:Fallout4.esm",
+        "Count": 100
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Packages": [
+    "042A1C:Fallout4.esm"
+  ],
+  "Keywords": [
+    "115A92:Fallout4.esm",
+    "1BF728:Fallout4.esm",
+    "1CF26C:Fallout4.esm",
+    "0A56F5:Fallout4.esm",
+    "248D2D:Fallout4.esm",
+    "1F31B7:Fallout4.esm"
+  ],
+  "Class": "05F96F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "The Glowing Cataclysm"
+  },
+  "CalculatedHealth": 245,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 66,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0CA02A:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.9,
+  "NAM7": 0.0,
+  "HeightMax": 1.9,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "VeryLoud",
+  "InheritsSoundsFrom": "0D8E1A:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#7A7C7E",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

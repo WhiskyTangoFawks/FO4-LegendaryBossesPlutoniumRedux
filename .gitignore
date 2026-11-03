@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/.gitattributes
+!/build.json
+!/plugin-source/
+!/plugin-source/**
+!/Legendary\ Bosses\ -\ Plutonium\ Redux.manifest.json

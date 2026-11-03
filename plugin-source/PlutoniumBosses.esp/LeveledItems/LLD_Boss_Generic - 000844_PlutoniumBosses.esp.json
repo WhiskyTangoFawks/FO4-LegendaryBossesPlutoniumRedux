@@ -1,0 +1,63 @@
+{
+  "FormKey": "000844:PlutoniumBosses.esp",
+  "EditorID": "LLD_Boss_Generic",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0673A1:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0673B3:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "07BB20:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "09AC3F:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "126394:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "126395:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "1B2B07:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ]
+}

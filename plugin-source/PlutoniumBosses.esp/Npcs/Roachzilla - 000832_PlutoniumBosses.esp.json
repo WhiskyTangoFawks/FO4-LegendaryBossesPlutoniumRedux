@@ -1,0 +1,180 @@
+{
+  "FormKey": "000832:PlutoniumBosses.esp",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "Roachzilla",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-101, -111, 120",
+    "Second": "101, 111, 358"
+  },
+  "Flags": [
+    "Unique"
+  ],
+  "XpValueOffset": 300,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 20
+  },
+  "CalcMinLevel": 400,
+  "CalcMaxLevel": 200,
+  "DispositionBase": 500,
+  "UseTemplateActors": "3900",
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "028670:Fallout4.esm"
+    },
+    {
+      "Faction": "0EDCE1:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "000844:PlutoniumBosses.esp",
+  "Voice": "0480FC:Fallout4.esm",
+  "Race": "04716C:Fallout4.esm",
+  "ActorEffect": [
+    "16CA43:Fallout4.esm",
+    "21C007:Fallout4.esm",
+    "00DA4D:PlutoniumCreatures.esp"
+  ],
+  "Skin": "044857:PlutoniumCreatures.esp",
+  "AttackRace": "04716C:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "02A6FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0E1A4B:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1504FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1C346F:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "00082F:PlutoniumBosses.esp",
+      "Rank": 1
+    },
+    {
+      "Perk": "000846:PlutoniumBosses.esp",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 1000.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 1000.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 15.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 150.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 150.0
+    },
+    {
+      "ActorValue": "0002EA:Fallout4.esm",
+      "Value": 150.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 150.0
+    },
+    {
+      "ActorValue": "1504FB:Fallout4.esm",
+      "Value": 20.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Packages": [
+    "042A1C:Fallout4.esm"
+  ],
+  "Keywords": [
+    "0A56F5:Fallout4.esm",
+    "013795:Fallout4.esm",
+    "1CF26C:Fallout4.esm",
+    "248D2D:Fallout4.esm",
+    "1C5020:Fallout4.esm",
+    "1F31B7:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Default": true,
+      "AltLevelsPerTier": 100,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "22CB76:Fallout4.esm",
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "05F971:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "The Great Roach"
+  },
+  "CalculatedHealth": 93,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "04A094:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.9,
+  "NAM7": 0.0,
+  "HeightMax": 1.9,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "VeryLoud",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

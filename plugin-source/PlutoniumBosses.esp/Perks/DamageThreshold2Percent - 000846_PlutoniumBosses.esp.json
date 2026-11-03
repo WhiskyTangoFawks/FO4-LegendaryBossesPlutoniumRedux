@@ -1,0 +1,281 @@
+{
+  "FormKey": "000846:PlutoniumBosses.esp",
+  "MajorRecordFlagsRaw": 4,
+  "EditorID": "DamageThreshold2Percent",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "NumRanks": 1,
+  "Hidden": true,
+  "Effects": [
+    {
+      "MutagenObjectType": "PerkEntryPointModifyActorValue",
+      "Priority": 99,
+      "Conditions": [
+        {
+          "RunOnTabIndex": 2,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Flags": [
+                "OR"
+              ],
+              "Unknown1": "0x76F1E2",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasKeyword",
+                "ParameterOneRecord": "04A0CB:Fallout4.esm",
+                "ParameterOneNumber": 303307
+              }
+            },
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Flags": [
+                "OR"
+              ],
+              "Unknown1": "0x76F1E2",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasKeyword",
+                "ParameterOneRecord": "04A0C8:Fallout4.esm",
+                "ParameterOneNumber": 303304
+              }
+            },
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Flags": [
+                "OR"
+              ],
+              "Unknown1": "0x76F1E2",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasKeyword",
+                "ParameterOneRecord": "22CDF0:Fallout4.esm",
+                "ParameterOneNumber": 2280944
+              }
+            }
+          ]
+        }
+      ],
+      "PerkEntryID": 0,
+      "EntryPoint": "ModIncomingWeaponDamage",
+      "PerkConditionTabCount": 3,
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": -0.01
+    },
+    {
+      "MutagenObjectType": "PerkEntryPointModifyActorValue",
+      "Priority": 99,
+      "Conditions": [
+        {
+          "RunOnTabIndex": 2,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x76F1E2",
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasKeyword",
+                "ParameterOneRecord": "04A0CB:Fallout4.esm",
+                "ParameterOneNumber": 303307
+              }
+            },
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x76F1E2",
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasKeyword",
+                "ParameterOneRecord": "04A0C8:Fallout4.esm",
+                "ParameterOneNumber": 303304
+              }
+            },
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x76F1E2",
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasKeyword",
+                "ParameterOneRecord": "22CDF0:Fallout4.esm",
+                "ParameterOneNumber": 2280944
+              }
+            }
+          ]
+        }
+      ],
+      "PerkEntryID": 6,
+      "EntryPoint": "ModIncomingWeaponDamage",
+      "PerkConditionTabCount": 3,
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": -0.01
+    },
+    {
+      "MutagenObjectType": "PerkEntryPointModifyActorValue",
+      "Priority": 100,
+      "Conditions": [
+        {
+          "RunOnTabIndex": 1,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "CompareOperator": "LessThan",
+              "Unknown1": "0x76F1E2",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "GetValue",
+                "ParameterOneRecord": "097341:Fallout4.esm",
+                "ParameterOneNumber": 619329
+              }
+            }
+          ]
+        },
+        {
+          "RunOnTabIndex": 2,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x76F1E2",
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasKeyword",
+                "ParameterOneRecord": "04A0A3:Fallout4.esm",
+                "ParameterOneNumber": 303267
+              }
+            },
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x76F1E2",
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasKeyword",
+                "ParameterOneRecord": "04A0CB:Fallout4.esm",
+                "ParameterOneNumber": 303307
+              }
+            },
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x76F1E2",
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasKeyword",
+                "ParameterOneRecord": "04A0C8:Fallout4.esm",
+                "ParameterOneNumber": 303304
+              }
+            },
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x76F1E2",
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasKeyword",
+                "ParameterOneRecord": "22CDF0:Fallout4.esm",
+                "ParameterOneNumber": 2280944
+              }
+            }
+          ]
+        }
+      ],
+      "PerkEntryID": 6,
+      "EntryPoint": "ModIncomingWeaponDamage",
+      "PerkConditionTabCount": 3,
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": -0.01
+    },
+    {
+      "MutagenObjectType": "PerkEntryPointModifyActorValue",
+      "Priority": 100,
+      "Conditions": [
+        {
+          "RunOnTabIndex": 1,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "CompareOperator": "LessThan",
+              "Unknown1": "0x76F1E2",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "GetValue",
+                "ParameterOneRecord": "097341:Fallout4.esm",
+                "ParameterOneNumber": 619329
+              }
+            }
+          ]
+        },
+        {
+          "RunOnTabIndex": 2,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x76F1E2",
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasKeyword",
+                "ParameterOneRecord": "04A0A3:Fallout4.esm",
+                "ParameterOneNumber": 303267
+              }
+            },
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Flags": [
+                "OR"
+              ],
+              "Unknown1": "0x76F1E2",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasKeyword",
+                "ParameterOneRecord": "04A0CB:Fallout4.esm",
+                "ParameterOneNumber": 303307
+              }
+            },
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Flags": [
+                "OR"
+              ],
+              "Unknown1": "0x76F1E2",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasKeyword",
+                "ParameterOneRecord": "04A0C8:Fallout4.esm",
+                "ParameterOneNumber": 303304
+              }
+            },
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Flags": [
+                "OR"
+              ],
+              "Unknown1": "0x76F1E2",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasKeyword",
+                "ParameterOneRecord": "22CDF0:Fallout4.esm",
+                "ParameterOneNumber": 2280944
+              }
+            }
+          ]
+        }
+      ],
+      "PerkEntryID": 0,
+      "EntryPoint": "ModIncomingWeaponDamage",
+      "PerkConditionTabCount": 3,
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": -0.01
+    }
+  ],
+  "MajorFlags": [
+    "NonPlayable"
+  ]
+}

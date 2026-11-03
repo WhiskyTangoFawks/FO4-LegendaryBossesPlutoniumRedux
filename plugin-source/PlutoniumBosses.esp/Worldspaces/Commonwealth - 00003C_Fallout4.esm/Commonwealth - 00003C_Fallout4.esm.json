@@ -1,0 +1,26 @@
+{
+  "FormKey": "00003C:Fallout4.esm",
+  "EditorID": "Commonwealth",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Commonwealth"
+  },
+  "Location": "002CF0:Fallout4.esm",
+  "Climate": "00015F:Fallout4.esm",
+  "Water": "000018:Fallout4.esm",
+  "LodWater": "000018:Fallout4.esm",
+  "LodWaterHeight": 450.0,
+  "LandDefaults": {
+    "DefaultWaterHeight": 450.0
+  },
+  "MapData": {
+    "NorthwestCellCoords": "-33, 25",
+    "SoutheastCellCoords": "28, -36"
+  },
+  "WorldMapOffsetScale": 1.0,
+  "DistantLodMultiplier": 1.0,
+  "ObjectBoundsMin": "-96, -96",
+  "ObjectBoundsMax": "96, 96",
+  "Music": "01ED25:Fallout4.esm",
+  "WaterEnvironmentMap": "data\\Textures\\Shared\\Cubemaps\\mipblur_DefaultOutside1.dds"
+}

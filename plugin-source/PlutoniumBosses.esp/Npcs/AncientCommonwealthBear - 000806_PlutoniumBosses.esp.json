@@ -1,0 +1,184 @@
+{
+  "FormKey": "000806:PlutoniumBosses.esp",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "AncientCommonwealthBear",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-101, -111, 120",
+    "Second": "101, 111, 358"
+  },
+  "Flags": [
+    "Unique"
+  ],
+  "XpValueOffset": 500,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 35
+  },
+  "CalcMinLevel": 400,
+  "CalcMaxLevel": 200,
+  "DispositionBase": 500,
+  "UseTemplateActors": "7988",
+  "Unknown": 1043,
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm",
+      "Rank": 3
+    },
+    {
+      "Faction": "0B3D82:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "000844:PlutoniumBosses.esp",
+  "Voice": "0B3D80:Fallout4.esm",
+  "Race": "0A0F2F:Fallout4.esm",
+  "ActorEffect": [
+    "21C007:Fallout4.esm",
+    "00DA50:PlutoniumCreatures.esp"
+  ],
+  "Skin": "01E87C:PlutoniumCreatures.esp",
+  "AttackRace": "0A0F2F:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "02A6FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0E1A4B:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1504FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1C346F:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "00082F:PlutoniumBosses.esp",
+      "Rank": 1
+    },
+    {
+      "Perk": "000846:PlutoniumBosses.esp",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 2500.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 200.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 150.0
+    },
+    {
+      "ActorValue": "1504FB:Fallout4.esm",
+      "Value": 20.0
+    },
+    {
+      "ActorValue": "0002EA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 10.0
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "AggroRadiusBehaviorEnabled": true,
+  "AggroRadiusWarn": 3000,
+  "AggroRadiusWarnOrAttack": 1000,
+  "AggroRadiusAttack": 500,
+  "Keywords": [
+    "013795:Fallout4.esm",
+    "013798:Fallout4.esm",
+    "0B3D83:Fallout4.esm",
+    "0A56F5:Fallout4.esm",
+    "1CF26C:Fallout4.esm",
+    "248D2D:Fallout4.esm",
+    "1F31B7:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "082908:Fallout4.esm",
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "0B3D81:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "The Ancient Commonwealth Bear"
+  },
+  "CalculatedHealth": 1175,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0B3D84:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.9,
+  "NAM7": 0.0,
+  "HeightMax": 1.9,
+  "Weight": {
+    "Muscular": 0.5
+  },
+  "SoundLevel": "VeryLoud",
+  "InheritsSoundsFrom": "0BEBA4:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#80E634",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

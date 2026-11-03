@@ -1,0 +1,14 @@
+{
+  "ModKey": "PlutoniumBosses.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "Version": 0.95,
+      "NextFormID": 2119
+    },
+    "Author": ""
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "FormKey": "000836:PlutoniumBosses.esp",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "InfectedGlowingMongrel",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-101, -111, 120",
+    "Second": "101, 111, 358"
+  },
+  "Flags": [
+    "Unique"
+  ],
+  "XpValueOffset": 300,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 15
+  },
+  "CalcMinLevel": 400,
+  "CalcMaxLevel": 200,
+  "DispositionBase": 500,
+  "UseTemplateActors": "7742",
+  "Unknown": 7808,
+  "Factions": [
+    {
+      "Faction": "01D15B:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "000844:PlutoniumBosses.esp",
+  "Voice": "01F6A7:Fallout4.esm",
+  "Race": "03578A:Fallout4.esm",
+  "ActorEffect": [
+    "21C007:Fallout4.esm",
+    "00DA47:PlutoniumCreatures.esp"
+  ],
+  "Skin": "033A36:PlutoniumCreatures.esp",
+  "AttackRace": "03578A:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "02A6FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0E1A4B:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1504FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1C346F:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "00082F:PlutoniumBosses.esp",
+      "Rank": 1
+    },
+    {
+      "Perk": "000846:PlutoniumBosses.esp",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 500.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002EA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "1504FB:Fallout4.esm",
+      "Value": 20.0
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsFriendsAndAllies",
+  "Keywords": [
+    "0A56F5:Fallout4.esm",
+    "0F23C5:Fallout4.esm",
+    "136253:Fallout4.esm",
+    "1CF26C:Fallout4.esm",
+    "248D2D:Fallout4.esm",
+    "1C5020:Fallout4.esm",
+    "1F31B7:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "22CB77:Fallout4.esm",
+          "Value": 519,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "05F96D:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "The Great Plague Mongrel"
+  },
+  "CalculatedHealth": 425,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "03F2F2:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.9,
+  "NAM7": 0.0,
+  "HeightMax": 1.9,
+  "Weight": {
+    "Thin": 3.4028235E+38,
+    "Muscular": 3.4028235E+38
+  },
+  "SoundLevel": "VeryLoud",
+  "InheritsSoundsFrom": "0B3432:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

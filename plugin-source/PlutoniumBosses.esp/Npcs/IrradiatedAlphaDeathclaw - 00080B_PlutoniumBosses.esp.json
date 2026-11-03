@@ -1,0 +1,190 @@
+{
+  "FormKey": "00080B:PlutoniumBosses.esp",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "IrradiatedAlphaDeathclaw",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-101, -111, 120",
+    "Second": "101, 111, 358"
+  },
+  "Flags": [
+    "Unique"
+  ],
+  "XpValueOffset": 450,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 80
+  },
+  "CalcMinLevel": 400,
+  "CalcMaxLevel": 200,
+  "DispositionBase": 200,
+  "UseTemplateActors": "3892",
+  "Factions": [
+    {
+      "Faction": "01E722:Fallout4.esm",
+      "Rank": 3
+    }
+  ],
+  "DeathItem": "000844:PlutoniumBosses.esp",
+  "Voice": "0219CA:Fallout4.esm",
+  "Race": "01DB4A:Fallout4.esm",
+  "ActorEffect": [
+    "183300:Fallout4.esm",
+    "21C007:Fallout4.esm",
+    "000F9E:PlutoniumCreatures.esp"
+  ],
+  "Skin": "000802:PlutoniumCreatures.esp",
+  "Perks": [
+    {
+      "Perk": "02A6FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0E1A4B:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1504FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1C346F:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "00082F:PlutoniumBosses.esp",
+      "Rank": 1
+    },
+    {
+      "Perk": "000846:PlutoniumBosses.esp",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 2500.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 70.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 200.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 200.0
+    },
+    {
+      "ActorValue": "1504FB:Fallout4.esm",
+      "Value": 20.0
+    },
+    {
+      "ActorValue": "0002EA:Fallout4.esm",
+      "Value": 200.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 200.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "113339:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "11333B:Fallout4.esm",
+        "Count": 100
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Keywords": [
+    "05BA48:Fallout4.esm",
+    "1437EB:Fallout4.esm",
+    "0A56F5:Fallout4.esm",
+    "1CF26C:Fallout4.esm",
+    "248D2D:Fallout4.esm",
+    "1F31B7:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "000804:PlutoniumCreatures.esp",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "05F96C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "The Glowing Death"
+  },
+  "CalculatedHealth": 3300,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 66,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "04D8AE:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.9,
+  "NAM7": 0.0,
+  "HeightMax": 1.9,
+  "Weight": {
+    "Thin": 2.1,
+    "Fat": 2.1
+  },
+  "SoundLevel": "VeryLoud",
+  "InheritsSoundsFrom": "0320A1:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#787DF0",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

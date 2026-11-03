@@ -1,0 +1,247 @@
+{
+  "FormKey": "000839:PlutoniumBosses.esp",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "AhabTheWorldslayer",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-101, -111, 120",
+    "Second": "101, 111, 358"
+  },
+  "Flags": [
+    "Unique"
+  ],
+  "XpValueOffset": 500,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 105
+  },
+  "CalcMinLevel": 400,
+  "CalcMaxLevel": 200,
+  "DispositionBase": 500,
+  "UseTemplateActors": "3892",
+  "Unknown": 6346,
+  "Factions": [
+    {
+      "Faction": "01CBED:Fallout4.esm"
+    },
+    {
+      "Faction": "004385:DLCRobot.esm"
+    }
+  ],
+  "DeathItem": "000844:PlutoniumBosses.esp",
+  "Voice": "06E5A3:Fallout4.esm",
+  "Race": "0AE0B7:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "02A6FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0E1A4B:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1504FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1C346F:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "00082F:PlutoniumBosses.esp",
+      "Rank": 1
+    },
+    {
+      "Perk": "000846:PlutoniumBosses.esp",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 3000.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 250.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 500.0
+    },
+    {
+      "ActorValue": "0002EA:Fallout4.esm",
+      "Value": 500.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 250.0
+    },
+    {
+      "ActorValue": "1504FB:Fallout4.esm",
+      "Value": 60.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "0DF621:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Packages": [
+    "042A1C:Fallout4.esm"
+  ],
+  "Keywords": [
+    "05BA48:Fallout4.esm",
+    "0A56F5:Fallout4.esm",
+    "115A92:Fallout4.esm",
+    "1BF728:Fallout4.esm",
+    "1C5020:Fallout4.esm",
+    "1CF26C:Fallout4.esm",
+    "2243AA:Fallout4.esm",
+    "2243AB:Fallout4.esm",
+    "225DBC:Fallout4.esm",
+    "22DB8F:Fallout4.esm",
+    "248D2D:Fallout4.esm",
+    "249D7A:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Includes": [
+        {
+          "Mod": "003E2C:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003E1D:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00287A:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00287B:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00506F:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00506E:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00506C:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00506D:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "002878:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003E76:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "010F60:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "010F61:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "010F62:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "010F63:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00289E:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00289F:DLCRobot.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ],
+  "Class": "20F487:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "The Worldslayer"
+  },
+  "CalculatedHealth": 190,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "Unused": 54,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0B9D66:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.9,
+  "NAM7": 0.0,
+  "HeightMax": 1.9,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "VeryLoud",
+  "InheritsSoundsFrom": "0B6E0E:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#7A7C7E",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}
